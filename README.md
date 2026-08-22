@@ -5,14 +5,8 @@ Dayflow — Human Resource Management System
 
 Every workday, perfectly aligned.
 
-Dayflow is a full-stack HRMS built for [Hackathon Name] that digitizes core HR operations — employee onboarding, attendance tracking, leave management, payroll visibility, and approval workflows — with an added AI layer for chatbot support, attrition risk detection, and smart analytics.
+Dayflow is a full-stack HRMS built for Oodo that digitizes core HR operations — employee onboarding, attendance tracking, leave management, payroll visibility, and approval workflows — with an added AI layer for chatbot support, attrition risk detection, and smart analytics.
 
-Team
-
-Logic Ledger
-
-[Member 1 name] — [role, e.g. Backend & AI]
-[Member 2 name] — [role, e.g. Frontend & UI]
 Problem Statement
 
 Traditional HR processes are scattered across spreadsheets, emails, and manual approvals — leading to delays, errors, and no real visibility for either employees or HR admins. Dayflow centralizes these operations into a single, role-based platform with proactive AI-driven insights.
